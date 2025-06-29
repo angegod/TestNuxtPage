@@ -1,0 +1,1 @@
+import{_ as n,c as o,a as t,o as r}from"./5dVp4fxu.js";const s={};function a(c,e){return r(),o("div",null,e[0]||(e[0]=[t("span",null,"這個頁面不存在 稍後會跳轉至主頁",-1)]))}const _=n(s,[["render",a]]);export{_ as default};
